@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yDdKxz4CRRnz0dreajPYLXBZZ871EHS4teyh/6lF2MAD9SJVCHTPIyBnmLJ0xHR9MB5PvHmK8DAEZFPOnzvqdQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Com\\Desktop\\SEDC-Homework-API\\Homework #2 API Бојан Дамчевски\\SEDC.HomeworkAPI2\\SEDC.HomeworkAPI2\\SEDC.HomeworkAPI2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Com\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Com\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Com\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.1\\swashbuckle.aspnetcore.6.2.1.nupkg.sha512",
+    "C:\\Users\\Com\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.1\\swashbuckle.aspnetcore.swagger.6.2.1.nupkg.sha512",
+    "C:\\Users\\Com\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.1\\swashbuckle.aspnetcore.swaggergen.6.2.1.nupkg.sha512",
+    "C:\\Users\\Com\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.1\\swashbuckle.aspnetcore.swaggerui.6.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
