@@ -1,0 +1,12 @@
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Dtos\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.deps.json
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Dtos\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.dll
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Dtos\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.pdb
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Dtos\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.dll
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Dtos\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.pdb
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.csproj.AssemblyReference.cache
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.AssemblyInfoInputs.cache
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.AssemblyInfo.cs
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.csproj.CopyComplete
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.dll
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.pdb

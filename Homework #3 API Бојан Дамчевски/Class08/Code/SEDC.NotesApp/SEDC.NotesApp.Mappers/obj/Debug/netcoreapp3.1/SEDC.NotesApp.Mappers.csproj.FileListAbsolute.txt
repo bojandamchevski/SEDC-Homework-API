@@ -1,0 +1,14 @@
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.deps.json
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.dll
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.pdb
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.dll
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.dll
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.pdb
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Mappers\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.pdb
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.csproj.AssemblyReference.cache
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.AssemblyInfoInputs.cache
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.AssemblyInfo.cs
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.csproj.CopyComplete
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.dll
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Mappers\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Mappers.pdb

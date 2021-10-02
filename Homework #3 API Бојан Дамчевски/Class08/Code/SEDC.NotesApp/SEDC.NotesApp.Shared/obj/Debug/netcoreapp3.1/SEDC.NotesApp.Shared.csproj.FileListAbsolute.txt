@@ -1,0 +1,9 @@
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Shared\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.deps.json
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Shared\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.dll
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Shared\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.pdb
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Shared\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.csproj.AssemblyReference.cache
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Shared\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.AssemblyInfoInputs.cache
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Shared\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.AssemblyInfo.cs
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Shared\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Shared\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.dll
+C:\Users\Com\Desktop\Class08\Code\SEDC.NotesApp\SEDC.NotesApp.Shared\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.pdb
